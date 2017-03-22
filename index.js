@@ -13,7 +13,7 @@ var shopify = new shopifyAPI({
 // ---- end Shopify
 
 var snapshot = {
-  lastSync: '2017-03-20 00:00:00'
+  lastSync: '2017-03-21 00:00:00'
 }
 
 // Get all products
